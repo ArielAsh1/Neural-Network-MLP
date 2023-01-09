@@ -1,4 +1,4 @@
-# Neural Network using PyTorch
+# Neural Network using PyTorch - Multi-Layer Perceptron
 
 Implementing and training a neural network (multi-layer perceptron) for handwriting digits recognition (MNIST dataset), using Pytorch.
 
